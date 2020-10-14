@@ -19,7 +19,7 @@ const Header = () => {
             </span>
             <SocialLinks />
             <p>
-              I specialize in React, Express,Node,Redux,Python, and SQL, but can learn any language.<br />
+              I specialize in React, Express, Node, Redux, Python, and SQL, but can learn any language.<br />
               I also have skills in Visual Design, and WordPress development. Creating things that
               are useful and nice to look at is what drives me.<br /> I've even built a couple of unpublished, small Android apps.
           </p>
