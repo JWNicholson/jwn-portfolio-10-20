@@ -12,7 +12,7 @@
   flex-direction: column;
   justify-content: space-evenly;
   text-align: left;
-  width:70%;
+  width: 70%;
 }
 
 span.column-left__brand {
@@ -67,38 +67,34 @@ span.jobTitle {
   }
 }
 
-@media screen and (max-width:768px){
- .column-left {
-   margin-bottom: 28px;
- }
- .column-right{
-   margin-left: 2rem;
- }
+@media screen and (max-width: 768px) {
+  .column-left {
+    margin-bottom: 28px;
+  }
+  .column-right {
+    margin-left: 2rem;
+  }
 }
 
-@media screen and (max-width:686px){
-  
-  .hero__wrapper{
+@media screen and (max-width: 686px) {
+  .hero__wrapper {
     flex-direction: column;
     padding: 0;
   }
-
 
   .column-left,
   .column-right {
     width: 100%;
   }
 
-  .column-right{
+  .column-right {
     margin: auto;
   }
 
- img.profile-img{
-   max-height: 320px;
- }
+  img.profile-img {
+    max-height: 320px;
+  }
 }
-
-
 
 /* @media screen and (max-width: 486px) {
   .hero__wrapper {

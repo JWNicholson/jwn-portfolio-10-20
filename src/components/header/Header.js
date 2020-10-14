@@ -17,11 +17,11 @@ const Header = () => {
               <h1>John Nicholson<br />
                 <span className="jobTitle">Full Stack Engineer</span></h1>
             </span>
-          <SocialLinks />
+            <SocialLinks />
             <p>
               I specialize in React, Express,Node,Redux,Python, and SQL, but can learn any language.<br />
               I also have skills in Visual Design, and WordPress development. Creating things that
-              are useful and nice to look at is what drives me. I've even built a couple of unpublished, small Android apps.
+              are useful and nice to look at is what drives me.<br /> I've even built a couple of unpublished, small Android apps.
           </p>
             <p>I'm looking for fulltime work, but will also consider a part-time or contract gig.
         </p>
@@ -29,10 +29,9 @@ const Header = () => {
 
           <div className="column-right">
             <img src={profilepic} alt="John Nicholson profile" className="profile-img" />
-          
           </div>
-        </div>
 
+        </div>
       </header>
 
     </>
