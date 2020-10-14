@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-top: 2px solid #6ef005;
+}
+
+.to-top-arrow {
+    font-size: 1.8rem;
+}

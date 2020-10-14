@@ -1,0 +1,5 @@
+
+I'm a fullstack engineer, specializing in React, Express,Node,Redux,Python, and SQL.
+I also have skills in Visual Design, and WordPress development. Creating things that 
+are useful and nice to look at is what drives me, so coding was a natural next-step.
+ I am looking for fulltime work, but will also consider a part-time or contract gig.

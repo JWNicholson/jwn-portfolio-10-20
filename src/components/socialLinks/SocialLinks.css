@@ -1,0 +1,14 @@
+.links__social {
+    margin: 1rem 0;
+  }
+  
+  .links__social-list {
+    display: flex;
+  }
+  
+  .links__social-list--item{
+    margin-right: 2rem;
+    font-size: 2rem;
+  }
+
+ 
